@@ -1,6 +1,6 @@
 # 🧑‍💼 채용 플랫폼 퍼널 분석을 통한 이탈률 개선 프로젝트
 
-> **분석 기간** &nbsp;|&nbsp;  2025.04 - 2025.04 <br/>
+> **분석 기간** &nbsp;|&nbsp;  2025.04.04 - 2025.04.28 <br/>
 > **분석 주체** &nbsp;|&nbsp;  팀 프로젝트 (팀원: 양태호, 최명빈, 유정원, 위이태인) <br/>
 > **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logo=python&logoColor=white"/>  
 > **분석 기법** &nbsp;|&nbsp; 퍼널 분석, 페르소나 기법, A/B Test 설계 <br/>
@@ -13,12 +13,10 @@
 
 ```plaintext
 📁 job_funnel_analysis_project/
- ┣ 📁 data/              원천 데이터 (로그, 이력서, 공고, 기업 정보 등)
  ┣ 📁 notebooks/         분석 코드 (Colab)
  ┣ 📁 images/            시각화 결과 (유저 여정, 체류시간 등)
- ┣ 📁 reports/           보고서 및 발표자료 (PDF, PPT)
+ ┣ 📁 reports/           분석 보고서 및 발표자료 (PDF)
  ┣ 📄 README.md          프로젝트 설명 문서
- ┗ 📄 requirements.txt   사용한 Python 패키지 목록
 ```
 
 ---
