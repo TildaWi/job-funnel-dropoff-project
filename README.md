@@ -51,7 +51,7 @@
 ### 3-1) 📊 데이터 전처리
 
 - 유저 로그 데이터 URL 분류
-![EDA 요약](images/user_log.PNG)
+![데이터 전처리](images/user_log.png)
 
 ---
 
@@ -65,7 +65,7 @@
 - 북마크 빈도가 높을수록 다음 단계 전환이높다(X)
 - 채용 기업의 규모에 따른 전환 차이가 있다 (X)
 
-![가설 검정](images/hypothesis_test_results.png.png)
+![가설 검정](images/hypothesis_test_results.png)
 
 ---
 
@@ -73,7 +73,7 @@
 
 #### 페르소나 기법
 - 페르소나 설정
-![페르소나](images/pesorna.PNG)
+![페르소나](images/pesorna.png)
 
 #### 퍼널 분석 방법
 - URL, 시간, 공고 수 등의 특성을 기반으로 탐색 행동을 세분화
