@@ -2,7 +2,7 @@
 
 > **분석 기간** &nbsp;|&nbsp;  2025.04.04 - 2025.04.28 <br/>
 > **분석 주체** &nbsp;|&nbsp;  팀 프로젝트 (팀원: 양태호, 최명빈, 유정원, 위이태인) <br/>
-> **분석 기법** &nbsp;|&nbsp; 퍼널 분석, 페르소나 기법, A/B Test 설계 <br/>
+> **분석 기법** &nbsp;|&nbsp; 페르소나 기법, 퍼널 분석 방법, A/B Test 설계 <br/>
 > **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logo=python&logoColor=white"/> <br/> 
 
 ---
@@ -76,7 +76,7 @@
 #### 페르소나 기법
 - 내용/이미지
 
-#### 퍼널 분석 기법
+#### 퍼널 분석 방법
 - 유저 로그 데이터를 바탕으로 5단계 퍼널 정의  
   (홈 진입 → 탐색 → 공고 클릭 → 이력서 작성 → 최종 지원)
 
