@@ -51,10 +51,10 @@
 ### 3-1) 📊 EDA 요약
 
 - 데이터 전처리: 유저 로그 데이터 URL 분류
-![데이터 전처리](images/hypothesis_test_results.png.png)
+![데이터 전처리](images/pesorna.PNG)
 
 - EDA 요약
-![EDA 요약](images/hypothesis_test_results.png.png)
+![EDA 요약](images/pesorna.PNG)
 
 ---
 
@@ -92,8 +92,8 @@
 - 유저 행동 흐름 기반 분석
 ![유저 여정 탐색](images/pesorna.PNG)
 
-#### A/B 테스트 설계
-
+#### A/B Test 설계
+- A/B Test 설계표
 ![A/B 테스트 설계](images/ab_test_plan.png)
 
 ---
