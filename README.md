@@ -91,7 +91,7 @@ images/funnel_step.png
 images/funnel_conversion_rate.png
 
 #### A/B 테스트 설계
-images/ab_test_plan.png
+![A/B 테스트 설계](images/ab_test_plan.png)
 
 ---
 
