@@ -71,7 +71,7 @@ images/statistical_summary.png
 - **H3. 공고 제목/회사 정보의 정보량이 낮을수록 클릭률이 낮다**  
   ↳ 공고 상세정보 노출 유무에 따라 클릭률 유의미한 차이 발생 (카이제곱 검정 결과 p < 0.01)
 
-images/hypothesis_test_results.png
+![가설 검정](images/hypothesis_test_results.png.PNG)
 
 ---
 
@@ -81,14 +81,14 @@ images/hypothesis_test_results.png
 - 유저 여정 파악
 
 - 페르소나 설정
-images/pesorna.png
+![페르소나](images/pesorna.PNG)
 
 #### 퍼널 분석 방법
-images/funnel_step.png
+![퍼널 분석 단게](images/funnel_step.PNG)
 
 - 각 단계별 전환율 분석 결과, **3단계 (탐색 → 공고 클릭)** 구간에서 이탈률이 가장 높음  
 - URL, 시간, 공고 수 등의 특성을 기반으로 탐색 행동을 세분화  
-images/funnel_conversion_rate.png
+![퍼널 단계별 전환율/이탈률](images/funnel_conversion_rate.PNG)
 
 #### A/B 테스트 설계
 ![A/B 테스트 설계](images/ab_test_plan.PNG)
