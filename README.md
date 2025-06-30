@@ -2,7 +2,7 @@
 
 > **분석 기간** &nbsp;|&nbsp;  2025.04.04 - 2025.04.28 <br/>
 > **분석 주체** &nbsp;|&nbsp;  팀 프로젝트 (팀원: 양태호, 최명빈, 유정원, 위이태인) <br/>
-> **분석 기법** &nbsp;|&nbsp; 페르소나 기법, 퍼널 분석 방법, A/B Test 설계 <br/>
+> **분석 기법** &nbsp;|&nbsp; 페르소나 기법, 퍼널 분석 방법, 유저 여정 분석, A/B Test 설계 <br/>
 > **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logo=python&logoColor=white"/> <br/> 
 
 ---
@@ -48,17 +48,17 @@
 
 ## 3. 프로젝트 진행
 
-### 3-1) 📊 데이터 전처리 및 EDA 요약: 유저 로그 데이터 URL 분류 및 통계 요약
+### 3-1) 📊 EDA 요약
 
-- 유저 로그 데이터 URL 분류
-images/user_log_url.png
+- 데이터 전처리: 유저 로그 데이터 URL 분류
+![데이터 전처리](images/hypothesis_test_results.png.png)
 
-- 통계 요약
-images/statistical_summary.png
+- EDA 요약
+![EDA 요약](images/hypothesis_test_results.png.png)
 
 ---
 
-### 3-2) 🧪 가설 검정: 주요 이탈구간 파악
+### 3-2) 🧪 가설 검정
 
 - **H1. 체류 시간이 짧은 유저일수록 클릭률이 낮다**  
   ↳ 평균 체류 시간이 클릭 유저 대비 비클릭 유저에서 유의하게 낮음 (p-value < 0.001)  
@@ -78,19 +78,22 @@ images/statistical_summary.png
 ### 3-3) 🎞️ 분석 프레임워크 
 
 #### 페르소나 기법
-- 유저 여정 파악
-
 - 페르소나 설정
-![페르소나](images/pesorna.png)
+![페르소나](images/pesorna.PNG)
 
 #### 퍼널 분석 방법
+- URL, 시간, 공고 수 등의 특성을 기반으로 탐색 행동을 세분화
 ![퍼널 분석 단게](images/funnel_step.png)
 
-- 각 단계별 전환율 분석 결과, **3단계 (탐색 → 공고 클릭)** 구간에서 이탈률이 가장 높음  
-- URL, 시간, 공고 수 등의 특성을 기반으로 탐색 행동을 세분화  
+- 각 단계별 전환율 분석 결과, **3단계 (탐색 → 공고 클릭)** 구간에서 이탈률이 가장 높음
 ![퍼널 단계별 전환율/이탈률](images/funnel_conversion_rate.png)
 
+#### 유저 여정 분석
+- 유저 행동 흐름 기반 분석
+![유저 여정 탐색](images/pesorna.PNG)
+
 #### A/B 테스트 설계
+
 ![A/B 테스트 설계](images/ab_test_plan.png)
 
 ---
