@@ -16,8 +16,9 @@
 📁 job_funnel_analysis_project/
  ┣ 📁 notebooks/         분석 코드 (Colab)
  ┣ 📁 images/            시각화 결과 (유저 여정, 체류시간 등)
- ┣ 📁 reports/           분석 보고서 및 발표자료 (PDF)
+ ┣ 📁 reports/           요약 보고서 및 발표자료 (PDF)
  ┣ 📄 README.md          프로젝트 설명 문서
+ ┗ 📄 requirements.txt   사용한 Python 패키지 목록
 ```
 
 ---
