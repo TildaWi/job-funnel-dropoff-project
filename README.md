@@ -4,7 +4,7 @@
 > **분석 기간** &nbsp;|&nbsp;  2025.04.04 - 2025.04.28 <br/>
 > **분석 주체** &nbsp;|&nbsp;  팀 프로젝트 (팀원: 양태호, 최명빈, 유정원, 위이태인) <br/>
 > **분석 기법** &nbsp;|&nbsp;  페르소나 기법, 퍼널 분석 방법, 유저 여정 분석, A/B Test 설계 <br/>
-> **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logo=python&logoColor=white"/> <br/> 
+> **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Koreanize_Matplotlib-FF9900?style=flat&logo=python&logoColor=white"/>
 
 ---
 
